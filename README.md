@@ -3,7 +3,7 @@ What is this?
 
 Application written in AutoIt as bot to game Tibia for client version 12. To capture properly Tibia 12 client you need to use OBS.\
 Personally, I used it for over 100 levels on the new server, so it saved my life and my party team more than once.\
-Autoit is a very simple scripting language so developing an application to include healer, auto ssa or might ring shouldn't be a problem.\
+Autoit is a very simple scripting language so developing an application to include healer, auto ssa or might ring shouldn't be a problem.
 
 ![alt text](https://i.imgur.com/Bkk9LqM.png)
 
@@ -24,8 +24,8 @@ How to use it?
 Hotkeys:\
 Knight Sio: F12\
 Paladin Sio: F10\
-Exura Gran Mas Res: F11\
+Exura Gran Mas Res: F11
 
-I recommend also set sio on Knight on CTRL+F12, SHIFT+F12 etc.\
+I recommend also set sio on Knight on CTRL+F12, SHIFT+F12 etc.
 
 WARNING! BEFORE START HUNT CHECK THAT SIO WORKS PROPERLY (SOMETIMES OBS MAY MINIMALIZE OR SMTH)
